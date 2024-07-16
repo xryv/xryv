@@ -28,7 +28,7 @@ It seems that most of your shields aren't dynamic because they don't utilize dyn
 
 ### Contributions
 
-- ![Total Contributions](https://img.shields.io/github/commit-activity/y/xryv?label=Total%20Contributions&color=orange&logo=github)
+- ![Total Contributions](https://img.shields.io/badge/dynamic/json?label=Total%20Contributions&query=%24.total_contributions&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=orange&logo=github)
 - ![Pull Requests Merged](https://img.shields.io/github/issues-pr-closed/xryv?label=Pull%20Requests%20Merged&color=yellow&logo=github)
 - ![Issues Resolved](https://img.shields.io/github/issues-closed/xryv?label=Issues%20Resolved&color=red&logo=github)
 
@@ -37,7 +37,7 @@ It seems that most of your shields aren't dynamic because they don't utilize dyn
 - ![Profile Views](https://komarev.com/ghpvc/?username=xryv&label=Profile%20Views&color=blueviolet)
 - ![Years on GitHub](https://img.shields.io/badge/dynamic/json?label=Years%20on%20GitHub&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github&style=flat-square)
 - ![GitHub Followers](https://img.shields.io/github/followers/xryv?label=GitHub%20Followers&style=social&color=blue&logo=github)
-- ![Following](https://img.shields.io/github/following/xryv?label=Following&style=social&color=blue&logo=github)
+- ![Following](https://img.shields.io/github/followers/xryv?label=Following&style=social&color=blue&logo=github)
 
 These badges should provide dynamic updates based on the actual data from GitHub APIs.
 
