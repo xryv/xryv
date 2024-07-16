@@ -23,21 +23,27 @@ It seems that most of your shields aren't dynamic because they don't utilize dyn
 ### Overview
 
 - ![Total Repositories](https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github)
-- ![Public Repositories](https://img.shields.io/badge/dynamic/json?label=Public%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=green&logo=github)
-- ![Private Repositories](https://img.shields.io/badge/dynamic/json?label=Private%20Repositories&query=%24.total_private_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=lightgrey&logo=github)
-
-### Contributions
-
-- ![Total Contributions](https://img.shields.io/badge/dynamic/json?label=Total%20Contributions&query=%24.total_contributions&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=orange&logo=github)
-- ![Pull Requests Merged](https://img.shields.io/github/issues-pr-closed/xryv?label=Pull%20Requests%20Merged&color=yellow&logo=github)
-- ![Issues Resolved](https://img.shields.io/github/issues-closed/xryv?label=Issues%20Resolved&color=red&logo=github)
 
 ### Personal Metrics
 
 - ![Profile Views](https://komarev.com/ghpvc/?username=xryv&label=Profile%20Views&color=blueviolet)
 - ![Years on GitHub](https://img.shields.io/badge/dynamic/json?label=Years%20on%20GitHub&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github&style=flat-square)
-- ![GitHub Followers](https://img.shields.io/github/followers/xryv?label=GitHub%20Followers&style=social&color=blue&logo=github)
-- ![Following](https://img.shields.io/github/followers/xryv?label=Following&style=social&color=blue&logo=github)
+
+- Here is your updated GitHub Stats section with the added badge for stars:
+
+### GitHub Stats
+
+### Overview
+
+- ![Total Repositories](https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github)
+
+### Personal Metrics
+
+- ![Profile Views](https://komarev.com/ghpvc/?username=xryv&label=Profile%20Views&color=blueviolet)
+- ![Years on GitHub](https://img.shields.io/badge/dynamic/json?label=Years%20on%20GitHub&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github&style=flat-square)
+- ![Total Stars](https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.starred_url&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=yellow&logo=github)
+
+These badges should display dynamic data based on your GitHub profile.
 
 These badges should provide dynamic updates based on the actual data from GitHub APIs.
 
