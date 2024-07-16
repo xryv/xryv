@@ -18,32 +18,25 @@ Certainly! Here's an improved version for the "About Me" section:
 
 ### GitHub Stats
 
-## GitHub Status
-
 ### Overview
 
-- ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-10-blue)
-- ![Public Repositories](https://img.shields.io/badge/Public%20Repositories-8-green)
-- ![Private Repositories](https://img.shields.io/badge/Private%20Repositories-2-lightgrey)
+- ![Total Repositories](https://img.shields.io/github/repo-count/xryv?label=Total%20Repositories&color=blue)
+- ![Public Repositories](https://img.shields.io/github/public-repo-count/xryv?label=Public%20Repositories&color=green)
+- ![Private Repositories](https://img.shields.io/github/private-repo-count/xryv?label=Private%20Repositories&color=lightgrey)
 
 ### Contributions
 
-- ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-150-orange)
-- ![Pull Requests Merged](https://img.shields.io/badge/Pull%20Requests%20Merged-120-yellow)
-- ![Issues Resolved](https://img.shields.io/badge/Issues%20Resolved-30-red)
-
-### Community Engagement
-
-- ![GitHub Discussions Started](https://img.shields.io/badge/GitHub%20Discussions%20Started-5-brightgreen)
-- ![GitHub Discussions Participated](https://img.shields.io/badge/GitHub%20Discussions%20Participated-10-lightgreen)
-- ![GitHub Issues Raised](https://img.shields.io/badge/GitHub%20Issues%20Raised-15-blueviolet)
+- ![Total Contributions](https://img.shields.io/github/commit-activity/m/xryv?label=Total%20Contributions&color=orange)
+- ![Pull Requests Merged](https://img.shields.io/github/issues-pr-closed/xryv?label=Pull%20Requests%20Merged&color=yellow)
+- ![Issues Resolved](https://img.shields.io/github/issues-closed/xryv?label=Issues%20Resolved&color=red)
 
 ### Personal Metrics
 
-- ![Profile Views](https://komarev.com/ghpvc/?username=xryv)
-- ![Years on GitHub](https://img.shields.io/badge/Years%20on%20GitHub-3-blue)
-- ![GitHub Followers](https://img.shields.io/github/followers/xryv?style=social&logo=github)
-- ![Following](https://img.shields.io/github/following/xryv?style=social&logo=github)
+- ![Profile Views](https://komarev.com/ghpvc/?username=xryv&label=Profile%20Views&color=blueviolet)
+- ![Years on GitHub](https://img.shields.io/github/created-date/xryv?label=Years%20on%20GitHub&color=blue)
+- ![GitHub Followers](https://img.shields.io/github/followers/xryv?label=GitHub%20Followers&style=social&color=blue&logo=github)
+- ![Following](https://img.shields.io/github/following/xryv?label=Following&style=social&color=blue&logo=github)
+
 
 
 ### Featured Project
