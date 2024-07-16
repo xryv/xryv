@@ -15,8 +15,6 @@ I'm Bruno, a passionate for Internet. Welcome !
 - 😄 Pronouns: Bruno it's fine! 
 - ⚡ Fun fact: Internet Bandwidth Devoured by Cat Videos; AI Predicts Feline Overlords by 2025. 🐱📹
 
-It seems that most of your shields aren't dynamic because they don't utilize dynamic endpoints. I'll correct the GitHub Stats section by using some reliable dynamic badge services.
-
 ### Technologies that i use
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
