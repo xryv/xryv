@@ -17,6 +17,28 @@ Certainly! Here's an improved version for the "About Me" section:
 - ⚡ Fun fact: Internet Bandwidth Devoured by Cat Videos; AI Predicts Feline Overlords by 2025. 🐱📹
 
 ### GitHub Stats
+## GitHub Status
+
+### Overview
+
+- ![Total Repositories](https://img.shields.io/github/repo-count/xryv?label=Total%20Repositories&color=blue&logo=github)
+- ![Public Repositories](https://img.shields.io/github/public-repo-count/xryv?label=Public%20Repositories&color=green&logo=github)
+- ![Private Repositories](https://img.shields.io/github/private-repo-count/xryv?label=Private%20Repositories&color=lightgrey&logo=github)
+
+### Contributions
+
+- ![Total Contributions](https://img.shields.io/github/commit-activity/m/xryv?label=Total%20Contributions&color=orange&logo=github)
+- ![Pull Requests Merged](https://img.shields.io/github/issues-pr-closed/xryv?label=Pull%20Requests%20Merged&color=yellow&logo=github)
+- ![Issues Resolved](https://img.shields.io/github/issues-closed/xryv?label=Issues%20Resolved&color=red&logo=github)
+
+### Personal Metrics
+
+- ![Profile Views](https://komarev.com/ghpvc/?username=xryv&label=Profile%20Views&color=blueviolet)
+- ![Years on GitHub](https://img.shields.io/github/created-date/xryv?label=Years%20on%20GitHub&color=blue&logo=github)
+- ![GitHub Followers](https://img.shields.io/github/followers/xryv?label=GitHub%20Followers&style=social&color=blue&logo=github)
+- ![Following](https://img.shields.io/github/following/xryv?label=Following&style=social&color=blue&logo=github)
+
+
 
 ### Overview
 
