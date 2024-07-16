@@ -29,24 +29,6 @@ It seems that most of your shields aren't dynamic because they don't utilize dyn
 - ![Profile Views](https://komarev.com/ghpvc/?username=xryv&label=Profile%20Views&color=blueviolet)
 - ![Years on GitHub](https://img.shields.io/badge/dynamic/json?label=Years%20on%20GitHub&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github&style=flat-square)
 
-- Here is your updated GitHub Stats section with the added badge for stars:
-
-### GitHub Stats
-
-### Overview
-
-- ![Total Repositories](https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github)
-
-### Personal Metrics
-
-- ![Profile Views](https://komarev.com/ghpvc/?username=xryv&label=Profile%20Views&color=blueviolet)
-- ![Years on GitHub](https://img.shields.io/badge/dynamic/json?label=Years%20on%20GitHub&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github&style=flat-square)
-- ![Total Stars](https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.starred_url&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=yellow&logo=github)
-
-These badges should display dynamic data based on your GitHub profile.
-
-These badges should provide dynamic updates based on the actual data from GitHub APIs.
-
 ### Featured Project
 
 - [Project Name](Link to Project Repository): Brief description of your featured project.
