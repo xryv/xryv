@@ -1,12 +1,11 @@
 ## Hi, You! 👋
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+![Whispering Mona Lisa](https://github.githubassets.com/images/mona-whisper.gif)
 
 I'm Bruno, a passionate for Internet. Welcome ! 
 
-### About Me
-Certainly! Here's an improved version for the "About Me" section:
+### About Me  
+![Total Repositories](https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github) ![Profile Views](https://komarev.com/ghpvc/?username=xryv&label=Profile%20Views&color=blueviolet) ![Years on GitHub](https://img.shields.io/badge/dynamic/json?label=Years%20on%20GitHub&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github&style=flat-square)
 
-### About Me
 
 - 🔭 I’m currently working on a Multi Kiosk Management App! 
 - 🌱 I’m currently learning or just keeping the pace of evolution! Its tru, ba.!  
@@ -18,36 +17,9 @@ Certainly! Here's an improved version for the "About Me" section:
 
 It seems that most of your shields aren't dynamic because they don't utilize dynamic endpoints. I'll correct the GitHub Stats section by using some reliable dynamic badge services.
 
-### GitHub Stats
-
-### Overview
-
-- ![Total Repositories](https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github)
-
-### Personal Metrics
-
-- ![Profile Views](https://komarev.com/ghpvc/?username=xryv&label=Profile%20Views&color=blueviolet)
-- ![Years on GitHub](https://img.shields.io/badge/dynamic/json?label=Years%20on%20GitHub&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github&style=flat-square)
-
-### Featured Project
-
-- [Project Name](Link to Project Repository): Brief description of your featured project.
-
-### Fun Stuff
-
-![Whispering Mona Lisa](https://github.githubassets.com/images/mona-whisper.gif)
-
-### Connect with Me
-
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
-- [Personal Website](Your Personal Website Link)
-
-Let's connect and collaborate on exciting projects together! 😊
-
-It seems like the response was cut off. Let me continue and provide more links to GitHub assets:
-
-
-
-
+### Technologies that i use
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
