@@ -1,27 +1,50 @@
-## Hi there 👋
+## Hi, You! 👋
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-I'm [Your Name], a passionate [Your Profession or Interest]. Welcome to my GitHub profile!
+I'm Bruno, a passionate for Internet. Welcome ! 
+
+### About Me
+Certainly! Here's an improved version for the "About Me" section:
 
 ### About Me
 
-- 🔭 I’m currently working on [Your Current Project or Focus Area]
-- 🌱 I’m currently learning [Something New that Excites You]
-- 👯 I’m looking to collaborate on [Open Source Projects or Specific Interests]
-- 💬 Ask me about [Your Expertise or Interest]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fun Fact about Yourself]
+- 🔭 I’m currently working on a Multi Kiosk Management App! 
+- 🌱 I’m currently learning or just keeping the pace of evolution! Its tru, ba.!  
+- 👯 I’m looking to collaborate on AI Open Source Projects, but i'm getting hungry~! 
+- 💬 Ask me about what's next in the tech world!
+- 📫 How to reach me: cerqueira.dev@outlook.com
+- 😄 Pronouns: Bruno it's fine! 
+- ⚡ Fun fact: Internet Bandwidth Devoured by Cat Videos; AI Predicts Feline Overlords by 2025. 🐱📹
 
 ### GitHub Stats
 
-![GitHub Issues](https://img.shields.io/github/issues/xryv/museudoporto_v1.svg)
-![GitHub Forks](https://img.shields.io/github/forks/xryv/museudoporto_v1.svg)
-![GitHub Stars](https://img.shields.io/github/stars/xryv/museudoporto_v1.svg)
-![GitHub License](https://img.shields.io/github/license/xryv/museudoporto_v1.svg)
-[![Build Status](https://img.shields.io/github/workflow/status/xryv/museudoporto_v1/CI)](https://github.com/xryv/museudoporto_v1/actions)
-![Docker Pulls](https://img.shields.io/docker/pulls/eveningstone/museudoporto_v1.svg)
-![Contributors](https://img.shields.io/github/contributors/xryv/museudoporto_v1.svg)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/xryv/museudoporto_v1.svg)
+## GitHub Status
+
+### Overview
+
+- ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-10-blue)
+- ![Public Repositories](https://img.shields.io/badge/Public%20Repositories-8-green)
+- ![Private Repositories](https://img.shields.io/badge/Private%20Repositories-2-lightgrey)
+
+### Contributions
+
+- ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-150-orange)
+- ![Pull Requests Merged](https://img.shields.io/badge/Pull%20Requests%20Merged-120-yellow)
+- ![Issues Resolved](https://img.shields.io/badge/Issues%20Resolved-30-red)
+
+### Community Engagement
+
+- ![GitHub Discussions Started](https://img.shields.io/badge/GitHub%20Discussions%20Started-5-brightgreen)
+- ![GitHub Discussions Participated](https://img.shields.io/badge/GitHub%20Discussions%20Participated-10-lightgreen)
+- ![GitHub Issues Raised](https://img.shields.io/badge/GitHub%20Issues%20Raised-15-blueviolet)
+
+### Personal Metrics
+
+- ![Profile Views](https://komarev.com/ghpvc/?username=xryv)
+- ![Years on GitHub](https://img.shields.io/badge/Years%20on%20GitHub-3-blue)
+- ![GitHub Followers](https://img.shields.io/github/followers/xryv?style=social&logo=github)
+- ![Following](https://img.shields.io/github/following/xryv?style=social&logo=github)
+
 
 ### Featured Project
 
@@ -41,6 +64,7 @@ Let's connect and collaborate on exciting projects together! 😊
 
 It seems like the response was cut off. Let me continue and provide more links to GitHub assets:
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-These links include various GitHub assets representing different programming languages, technologies, and GitHub features. You can use these images in Markdown files or anywhere else on GitHub where Markdown is supported.
+
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
