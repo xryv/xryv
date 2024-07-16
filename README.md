@@ -7,7 +7,7 @@ I'm Bruno, a passionate for Internet. Welcome !
 ![Total Repositories](https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github) ![Profile Views](https://komarev.com/ghpvc/?username=xryv&label=Profile%20Views&color=blueviolet) ![Years on GitHub](https://img.shields.io/badge/dynamic/json?label=Years%20on%20GitHub&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github&style=flat-square)
 
 
-- 🔭 I’m currently working on a Multi Kiosk Management App! 
+- 🔭 I’m currently working on a Multi Kiosk Management App as part of my First Intern Experience!! 
 - 🌱 I’m currently learning or just keeping the pace of evolution! Its tru, ba.!  
 - 👯 I’m looking to collaborate on AI Open Source Projects, but i'm getting hungry~! 
 - 💬 Ask me about what's next in the tech world!
