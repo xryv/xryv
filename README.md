@@ -16,50 +16,30 @@ Certainly! Here's an improved version for the "About Me" section:
 - 😄 Pronouns: Bruno it's fine! 
 - ⚡ Fun fact: Internet Bandwidth Devoured by Cat Videos; AI Predicts Feline Overlords by 2025. 🐱📹
 
+It seems that most of your shields aren't dynamic because they don't utilize dynamic endpoints. I'll correct the GitHub Stats section by using some reliable dynamic badge services.
+
 ### GitHub Stats
-## GitHub Status
 
 ### Overview
 
-- ![Total Repositories](https://img.shields.io/github/repo-count/xryv?label=Total%20Repositories&color=blue&logo=github)
-- ![Public Repositories](https://img.shields.io/github/public-repo-count/xryv?label=Public%20Repositories&color=green&logo=github)
-- ![Private Repositories](https://img.shields.io/github/private-repo-count/xryv?label=Private%20Repositories&color=lightgrey&logo=github)
+- ![Total Repositories](https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github)
+- ![Public Repositories](https://img.shields.io/badge/dynamic/json?label=Public%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=green&logo=github)
+- ![Private Repositories](https://img.shields.io/badge/dynamic/json?label=Private%20Repositories&query=%24.total_private_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=lightgrey&logo=github)
 
 ### Contributions
 
-- ![Total Contributions](https://img.shields.io/github/commit-activity/m/xryv?label=Total%20Contributions&color=orange&logo=github)
+- ![Total Contributions](https://img.shields.io/github/commit-activity/y/xryv?label=Total%20Contributions&color=orange&logo=github)
 - ![Pull Requests Merged](https://img.shields.io/github/issues-pr-closed/xryv?label=Pull%20Requests%20Merged&color=yellow&logo=github)
 - ![Issues Resolved](https://img.shields.io/github/issues-closed/xryv?label=Issues%20Resolved&color=red&logo=github)
 
 ### Personal Metrics
 
 - ![Profile Views](https://komarev.com/ghpvc/?username=xryv&label=Profile%20Views&color=blueviolet)
-- ![Years on GitHub](https://img.shields.io/github/created-date/xryv?label=Years%20on%20GitHub&color=blue&logo=github)
+- ![Years on GitHub](https://img.shields.io/badge/dynamic/json?label=Years%20on%20GitHub&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github&style=flat-square)
 - ![GitHub Followers](https://img.shields.io/github/followers/xryv?label=GitHub%20Followers&style=social&color=blue&logo=github)
 - ![Following](https://img.shields.io/github/following/xryv?label=Following&style=social&color=blue&logo=github)
 
-
-
-### Overview
-
-- ![Total Repositories](https://img.shields.io/github/repo-count/xryv?label=Total%20Repositories&color=blue)
-- ![Public Repositories](https://img.shields.io/github/public-repo-count/xryv?label=Public%20Repositories&color=green)
-- ![Private Repositories](https://img.shields.io/github/private-repo-count/xryv?label=Private%20Repositories&color=lightgrey)
-
-### Contributions
-
-- ![Total Contributions](https://img.shields.io/github/commit-activity/m/xryv?label=Total%20Contributions&color=orange)
-- ![Pull Requests Merged](https://img.shields.io/github/issues-pr-closed/xryv?label=Pull%20Requests%20Merged&color=yellow)
-- ![Issues Resolved](https://img.shields.io/github/issues-closed/xryv?label=Issues%20Resolved&color=red)
-
-### Personal Metrics
-
-- ![Profile Views](https://komarev.com/ghpvc/?username=xryv&label=Profile%20Views&color=blueviolet)
-- ![Years on GitHub](https://img.shields.io/github/created-date/xryv?label=Years%20on%20GitHub&color=blue)
-- ![GitHub Followers](https://img.shields.io/github/followers/xryv?label=GitHub%20Followers&style=social&color=blue&logo=github)
-- ![Following](https://img.shields.io/github/following/xryv?label=Following&style=social&color=blue&logo=github)
-
-
+These badges should provide dynamic updates based on the actual data from GitHub APIs.
 
 ### Featured Project
 
