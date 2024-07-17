@@ -15,6 +15,21 @@ I'm Bruno, a passionate for Internet. Welcome !
 - 😄 Pronouns: Bruno it's fine! 
 - ⚡ Fun fact: Internet Bandwidth Devoured by Cat Videos; AI Predicts Feline Overlords by 2025. 🐱📹
 
+Sure! Here is the one-liner list:
+
+## 🛠️ Tools you may use.
+
+- **Narakeet** - 🎤 Convert presentations into audio and video with captions. [narakeet.com](https://www.narakeet.com/)
+- **PDF Candy** - 📄 Edit, convert, and manage PDF files online. [pdfcandy.com](https://pdfcandy.com/)
+- **TinEye** - 🔍 Reverse image search engine. [tineye.com](https://tineye.com/)
+- **TinyWow** - ✨ Edit PDFs, images, and videos with AI tools. [tinywow.com](https://tinywow.com/)
+- **Drive and Listen** - 🚗 Take virtual drives while listening to local radio. [driveandlisten.com](https://driveandlisten.com/)
+- **This House Does Not Exist** - 🏠 AI-generated images of non-existent houses. [thishousedoesnotexist.org](https://thishousedoesnotexist.org/)
+- **ContentIdeas** - 📈 Discover trending and viral content. [contentideas.io](https://contentideas.io/)
+- **FreeCodeCamp** - 💻 Learn to code with free courses and certifications. [freecodecamp.org](https://www.freecodecamp.org/)
+- **Open Peeps** - 👩‍🎨 Free library of hand-drawn illustrations. [openpeeps.com](https://www.openpeeps.com/)
+- **Upstract** - 📰 Read curated headlines from popular sites on one page. [upstract.com](https://upstract.com/)
+
 ### Technologies that i use
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
