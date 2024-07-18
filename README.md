@@ -19,7 +19,7 @@ I'm Bruno, a passionate for Internet. Welcome !
 - 📫 How to reach me: cerqueira.dev@outlook.com
 - 😄 Pronouns: Bruno it's fine! 
 - ⚡ Fun fact: Internet Bandwidth Devoured by Cat Videos; AI Predicts Feline Overlords by 2025. 🐱📹
-- 
+  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xryv" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=xryv" style="max-width: 100%;">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xryv&&show_icons=true&theme=radical" alt="xryv's Github Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=xryv&&show_icons=true&theme=radical" style="max-width: 100%;">
