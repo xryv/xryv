@@ -15,7 +15,8 @@ I'm Bruno, a passionate for Internet. Welcome !
 - 😄 Pronouns: Bruno it's fine! 
 - ⚡ Fun fact: Internet Bandwidth Devoured by Cat Videos; AI Predicts Feline Overlords by 2025. 🐱📹
 - 
-<img align="center" src="https://camo.githubusercontent.com/cf1f85df8903f8d0c59fb304b3ed74ee37ee8d27398dd9f4cdd289b77778532e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d78727976" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=xryv" style="max-width: 100%;">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xryv" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=xryv" style="max-width: 100%;">
+
 
 
 ## 🛠️ Useful Online Tools
