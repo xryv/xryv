@@ -3,6 +3,11 @@
 
 I'm Bruno, a passionate for Internet. Welcome ! 
 
+> *In every science ... we are in danger of deceiving ourselves about words.*  
+> *We must never forget that our characterizations of the phenomena of nature*  
+> *are merely figurative language by which we must not allow ourselves to be duped.*  
+> — Claude Bernard, 1874
+
 ### About Me  
 ![Total Repositories](https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github) ![Profile Views](https://komarev.com/ghpvc/?username=xryv&label=Profile%20Views&color=blueviolet) ![Years on GitHub](https://img.shields.io/badge/dynamic/json?label=Years%20on%20GitHub&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxryv&color=blue&logo=github&style=flat-square)
 
