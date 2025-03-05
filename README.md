@@ -1,3 +1,3 @@
-> *A friend is someone who gives you total freedom to be yourself*
+> * the answer was already known before you asked, but only if you knew what to listen for.*
 
 
