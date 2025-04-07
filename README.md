@@ -73,20 +73,6 @@ Wireframing | UX Basics | Accessibility | Semantic HTML
 
 ---
 
-### 🔥 My Daily Tech Stack Flow
-
-```mermaid
-graph LR
-  A[HTML5 & CSS3] --> B[JavaScript]
-  B --> C[PHP OOP]
-  C --> D[Symfony + Twig]
-  D --> E[MySQL + SQL Magic]
-  E --> F[REST APIs]
-  F --> G[React.js Sprinkles]
-  G --> H[Deploy + Debug 🔧]
-
----
-
 ### 🔥 GitHub Stats
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=xryv&show_icons=true&theme=radical" />
