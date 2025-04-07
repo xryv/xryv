@@ -55,9 +55,35 @@ Wireframing | UX Basics | Accessibility | Semantic HTML
 ---
 
 ### 🌀 Animated Dev Life
+<!-- Dynamic Dev Life — Supercharged -->
+
+<h2 align="center">👨‍💻 A Day in the Life of a Dev Web & Web Mobile 🧠</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=xryv&theme=react-dark&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="200" alt="coding-dino" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&width=435&lines=Wake+Up+and+Code...;Eat+Sleep+Debug+Repeat;Push+Code+%F0%9F%94%A5+Drink+Coffee;Refactor%2C+Break+Things%2C+Fix+Them+Again;Dream+in+HTML+%26+JavaScript" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ArnavK-09/ArnavK-09/blob/main/code.gif?raw=true" width="400" alt="animated coding loop" />
+</p>
+
+---
+
+### 🔥 My Daily Tech Stack Flow
+
+```mermaid
+graph LR
+  A[HTML5 & CSS3] --> B[JavaScript]
+  B --> C[PHP OOP]
+  C --> D[Symfony + Twig]
+  D --> E[MySQL + SQL Magic]
+  E --> F[REST APIs]
+  F --> G[React.js Sprinkles]
+  G --> H[Deploy + Debug 🔧]
 
 ---
 
