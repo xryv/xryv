@@ -82,6 +82,29 @@ Wireframing | UX Basics | Accessibility | Semantic HTML
 
 ---
 
+<!-- Top wave hero -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=180&color=0:0f2027,50:203a43,100:2c5364&text=ZEVILINK&fontAlign=50&fontAlignY=35&fontColor=E6EDF3&textBg=false&desc=Project%20in%20Progress&descSize=18&descAlign=50&descAlignY=65" alt="ZEVILINK — Project in Progress"/>
+</p>
+
+<!-- Typing lines -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&duration=2500&center=true&vCenter=true&width=650&lines=ZEVILINK;Project+in+Progress;Details+drop+when+it's+right" alt="typing animation" />
+</p>
+
+<!-- Minimal animated accent -->
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120" alt="coding spinner" />
+</p>
+
+<!-- Core statement (only this) -->
+<p align="center">
+  <b>Building Zevilink — project in progress.</b><br/>
+  <sub>Quietly crafting. No public details (yet).</sub>
+</p>
+
+---
+
 ### 🤝 Let's Connect!
 <p align="left">
   <a href="https://linkedin.com/in/lbcerqueira" target="_blank">
