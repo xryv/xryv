@@ -72,6 +72,15 @@ CNC Workflow Mapping | Measurement Instruments (Calibres, Micrometers) | Label P
   <img src="https://skillicons.dev/icons?i=html,css,js,php,symfony,react,bootstrap,nodejs,mysql,postgres,wordpress,vscode,git,github,figma&theme=light" />
 </p>
 
+### ⚡ Tech Stack
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,socketio,react,tailwind,bootstrap,chartjs,php,symfony,wordpress,mysql,mariadb,postgres,sqlite,apache,linux,windows,powershell,bash,git,github,githubactions,npm,yarn,vscode,postman,figma,fontawesome&perline=12&theme=light"
+    alt="tech stack"
+  />
+</p>
+
+
 ---
 
 ### 🌀 Animated Dev Life
