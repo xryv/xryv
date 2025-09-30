@@ -67,10 +67,6 @@ CNC Workflow Mapping | Measurement Instruments (Calibres, Micrometers) | Label P
 
 ---
 
-### ⚡ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,symfony,react,bootstrap,nodejs,mysql,postgres,wordpress,vscode,git,github,figma&theme=light" />
-</p>
 
 ### ⚡ Tech Stack
 <p align="center">
