@@ -15,34 +15,54 @@
 
 ```txt
 🖥️ Languages:
-HTML5 | CSS3 | JavaScript | PHP | SQL | JSON | XML
+HTML5 | CSS3 | JavaScript (ES6+) | Node.js | SQL (MariaDB/MySQL) | JSON | XML | Bash | Markdown
 
 ⚙️ Frameworks & Tools:
-Bootstrap | jQuery | Symfony | Twig | React.js | Node.js | Composer | NPM/Yarn
+Express.js | EJS | Socket.IO | Multer | PDFKit | Chart.js | Tailwind CSS (Tokens-Based) | Bootstrap | React (UI Prototypes)
 
-🗄️ Databases:
-MySQL | MariaDB | PostgreSQL | CRUD | SQL Queries | DB Modeling
+🧠 Architecture & Engineering:
+Modular Node.js Architecture | REST APIs | Middleware Systems | Role-Based Auth | Session & Flash Middleware | Real-Time WebSockets | CI/CD Workflows | Theme Switchers | Dark Mode Systems
 
-🧩 CMS & E-Commerce:
-WordPress | WooCommerce | PrestaShop
+📦 Data & Storage:
+MariaDB | MySQL | SQL Query Optimization | Relational Data Modeling | Local + Network Storage (NAS) | Structured File Path Management
 
-🛠️ Dev Tools:
-VS Code | Git/GitHub | Apache | phpMyAdmin | Figma
+📊 Industrial Integration:
+Machine Monitoring Dashboards | Real-Time Process Feedback | Non-Conformity Tracking | Maintenance Scheduling | Smart Calendar Systems | STEP File Handling | CNC Integration (via Digital Twin Logic)
 
-🔄 Methodologies:
-SCRUM | Kanban | Trello | Jira | Version Control
+🛠️ DevOps & Workflow:
+VS Code | Git/GitHub | GitHub Actions | PM2 | Apache | phpMyAdmin | Shell Scripting | Node Environments | Modular Route Systems
 
-🧪 Testing:
-Dev Tools | PHP Debugging | JS Debugging | Unit Testing
+🧪 Testing & Validation:
+CI Validators | Custom Linting Workflows | Debug Logging | Console-Based Dev Tools | Input Validation | Manual QA via EJS Views
 
-🧱 Architecture:
-MVC | REST APIs | Routing | Auth Systems
+🎨 UI/UX & Front-End Systems:
+Design Tokens | Responsive Grid Layouts | Animated Modals | Dashboard Interfaces | Theme Switchers | Font Awesome Integration | Form UX Patterns | Mobile-Responsive Industrial UI | Visual Alerts & Toasts
 
-📱 Responsive:
-Media Queries | Responsive Design | Mobile-First
+🗃️ PDF & Reports:
+Dynamic PDF Generation (PDFKit) | Table Layouts | Signature Blocks | Custom PDF Templates (Quotes, Requisitions, Complaints, Proposals)
 
-🎨 UI/UX:
-Wireframing | UX Basics | Accessibility | Semantic HTML
+🧱 Design Systems & Patterns:
+Atomic Components | RYV Framework | Theme Variables | Clean Semantic CSS | Modular UI Elements | Grid-Based Layouts | Real-Time Feedback Systems
+
+🧩 CMS & E-Commerce (Legacy):
+WordPress | WooCommerce | PrestaShop | Twig | Symfony
+
+🔄 Project Management:
+SCRUM | Kanban | Trello | Jira | GitHub Projects | Modular Feature Tracking
+
+📈 AI & Automation (R&D Phase):
+ML for Machining Time Estimation | Automation of Upload/Parse (e.g., Beck Upload Flow) | Time Prediction Models | Bot-Based Order Detection
+
+🔍 Monitoring & Observability:
+Real-Time Machine Status | Operator Tracking | Action Timers | Alerts | Session-Based Logs | Audit Trails
+
+🌐 Networking & Infrastructure:
+Synology NAS Configs | Volume & Permission Setup | HTTP & WebSocket Integration | Real-Time Frontend Sync
+
+🧰 Hardware Integration:
+CNC Workflow Mapping | Measurement Instruments (Calibres, Micrometers) | Label Printing | QR Scanning | Time-Clock Devices (Upcoming)
+
+
 ```
 
 ---
