@@ -122,12 +122,6 @@ CNC Workflow Mapping | Measurement Instruments (Calibres, Micrometers) | Label P
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120" alt="coding spinner" />
 </p>
 
-<!-- Core statement (only this) -->
-<p align="center">
-  <b>Building Zevilink — project in progress.</b><br/>
-  <sub>Quietly crafting. No public details (yet).</sub>
-</p>
-
 ---
 
 ### 🤝 Let's Connect!
